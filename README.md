@@ -4,11 +4,13 @@ This is a simple Responsive Login UI created using HTML, CSS and JS with added a
 
 ## Demo
 
-Login Page 
+### Login Page 
 
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/64271130/101945199-dd503b00-3c13-11eb-942a-a0962145c31b.png">
 
+### Sign Up Page
 
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/64271130/101945277-ff49bd80-3c13-11eb-9543-e2e3464a154c.png">
 
 ## Important Link
 <a href="https://undraw.co/search">Click here for image sources</a>
