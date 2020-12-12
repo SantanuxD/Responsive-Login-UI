@@ -13,7 +13,7 @@ This is a simple Responsive Login UI created using HTML, CSS and JS with added a
 <img width="960" alt="2" src="https://user-images.githubusercontent.com/64271130/101945277-ff49bd80-3c13-11eb-9543-e2e3464a154c.png">
 
 ## Important Link
-<a href="https://undraw.co/search">Click here for image sources</a>
+CLick <a href="https://undraw.co/search">here</a> for illustration source !
 
 ## 📲 Connect with me on social media 
 <p align="left">
